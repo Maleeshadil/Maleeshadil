@@ -5,6 +5,7 @@
 
 
 
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Maleeshadil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="maleeshadilshan" /> </p>
 <br>
@@ -16,7 +17,7 @@
   About me
 </h1>
 
-<picture> <img align="right" src="https://github.com/user-attachments/assets/169a00e7-78d6-4321-97ae-6ba7ee387cb3" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/user-attachments/assets/5b3bd264-7181-43ac-8e06-e64f616d6ac8" width = 300px></picture>
 
 - 🎓 Graduate of the **Pearson BTEC Higher National Diploma in Software Engineering at ESOFT Metro Campus**,
 
