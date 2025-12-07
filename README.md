@@ -25,7 +25,7 @@
   
 - 🌱 I’m currently learning **MERN stack and Laravel and more**
 
-- 💬 Ask me about **Full stcak,Backend developer**
+- 💬 Ask me about **Full stack,Backend developer**
 
 - 💪🏼 Future Goals: **Become an expert in full-stack development and build real-world software solutions**
 
